@@ -21,3 +21,7 @@ print("바꾸기 전", date)
 date = date.replace(',', '-')
 print('바꾼 후' , date)
 
+# 문자열 여러 줄로 출력하기
+자유 = '추워요.\n 목아파요.\n 졸려요. \n 집가고 싶어요.'
+print(자유)
+
